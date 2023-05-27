@@ -6,11 +6,11 @@
 ## FAQs
 
  - **Why was Krypto created?**
-	 - Krypto was created as an alternative to account managers such as LastPass, and Bitwarden. Mainly, I wanted to use BitWarden, but the need to pay for its 2FA threw me off, thus, I created Krypto.
+	 - Krypto was developed as a viable alternative to popular account managers like LastPass and Bitwarden. As a student, I personally wanted to use Bitwarden, but the requirement to pay for its 2FA feature discouraged me. Consequently, I embarked on creating Krypto to address this need.
 - **Is Krypto secure?**
-	- Krypto  is created with security at mind. All data are encrypted with AES 256, and is also hashed with SHA256
+	- Krypto has been designed with security as the top priority. All data is protected using robust encryption standards, utilizing AES 256. Additionally, sensitive information is further safeguarded through the application of SHA256 hashing.
 - **Why should I use Krypto?**
-	- You don't need to use Krypto, but you can always contribute, and make the program better.
+	- While the decision to use Krypto is entirely up to you, I encourage you to contribute to its development and help make it even better. Your valuable contributions can significantly enhance the program and benefit the entire community.
 
 ## Requirements
 
